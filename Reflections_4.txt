@@ -1,0 +1,3 @@
+W SCRUMie planujemy nieruszalne sprinty.
+Kanban to strumień zadań, gdzie zadania jeszcze nierozpoczęte mogą być swobodnie zamieniane i wymieniane
+przez Product Ownera.
