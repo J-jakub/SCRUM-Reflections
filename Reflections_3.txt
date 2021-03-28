@@ -1,0 +1,3 @@
+Zespół Scrumowy powinien zawierać 3-9 developerów według scrum guide.
+Należy uwzględnić jeszcze dodatkowe stanowiska np. scrum mastera.
+Najważniejszym warunkiem jest, żeby komunikacja w zespole była efektywna.
